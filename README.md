@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a recent graduate from Purdue University with a Bachelor of Science degree in Data Science. I currently reside in Miami, Florida but am open to relocation. I'm looking for a Data Analyst/Scientist position in a progressive environment. Here are some of my hype projects!
+I'm a recent graduate from Purdue University with a Bachelor of Science degree in Data Science. I currently reside in Miami, Florida but am open to relocation. I'm looking for a Data Analyst/Scientist/ML Engineer position (I know I'm versatile) in a progressive environment. Here are some of my hype projects!
 Feel free to email me at: krishshah0012@gmail.com
 Or connect with me on LinkedIn: https://www.linkedin.com/in/krish-shah-40a1b1244/
 <!--
