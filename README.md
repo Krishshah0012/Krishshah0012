@@ -1,4 +1,4 @@
-### Welcome to my crib👋
+### Welcome to my crib
 
 I'm a recent graduate from Purdue University with a Bachelor of Science in Data Science. I'm looking for a Data Analyst/Scientist/ML Engineer positions (I know I'm versatile) in a progressive environment. Here are some of my hype projects!
 Feel free to email me at: krishshah0012@gmail.com
