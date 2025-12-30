@@ -1,4 +1,4 @@
-### Welcome to my crib
+### Welcome to my museum
 
 I'm Krish, a Data Scientist & AI Engineer with a background in full-stack development and applied machine learning. 
 Open to Data Science, ML Engineering, and Software Engineering roles
