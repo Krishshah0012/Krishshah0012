@@ -3,7 +3,7 @@
 I'm Krish, a Data Scientist & AI Engineer with a background in full-stack development and applied machine learning. 
 Open to Data Science, ML Engineering, and Software Engineering roles
 
-Feel free to email me at: krishshah0012@gmail.com
+Feel free to email me at: krishshahwork@outlook.com
 Or connect with me on LinkedIn: https://www.linkedin.com/in/krishshah--/
 
 <!--
